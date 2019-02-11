@@ -41,18 +41,18 @@ The 1st attempt contains 44 images of my friend.
             Processing time: 2 hours
             
 Pros:
-      Do not requir specific tools. Any camera can do the work.
-      Agisoft is relatively cheap for licensing.
-      Can be apply to a huge range of scale, from urban site model to an object.
-      Can be export to various modeling software, such as Rhino and c4d, for further mesh clean up.
+   1. Do not requir specific tools. Any camera can do the work.
+   2. Agisoft is relatively cheap for licensing.
+   3. Can be apply to a huge range of scale, from urban site model to an object.
+   4. Can be export to various modeling software, such as Rhino and c4d, for further mesh clean up.
 
 Cons:
       Agisoft:
-          Processing time varies according to your CPU. (Can goes up to multiple hours.)
-          Location of images may not be success fully identified.
-          Missing an important image may require a complete redo.
-          Resolution of the model relies on the texture image, pure mesh geometry can easily dsitorted. 
+         1. Processing time varies according to your CPU. (Can goes up to multiple hours.)
+         2. Location of images may not be success fully identified.
+         3. Missing an important image may require a complete redo.
+         4. Resolution of the model relies on the texture image, pure mesh geometry can easily dsitorted. 
      Model with fine detials requires a sophisticate setup which drives up the cost:
-           1. Perfect lighting.
-           2. Multiple high resolution cameras.
-           3. Locational identifying object maybe necessary.
+         1. Perfect lighting.
+         2. Multiple high resolution cameras.
+         3. Locational identifying object maybe necessary.
