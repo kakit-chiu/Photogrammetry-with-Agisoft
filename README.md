@@ -12,8 +12,7 @@ Laptop: MSI
 The 1st attempt contains 44 images of my friend.
     
     All image have been successfully aligned. 
-            Processing time:approx. 30 mins.
-
+        Processing time:approx. 30 mins.
     
     Mesh geometry has been populated and export into Rhino. (".obj")
         Processing time: 10 mins.
@@ -40,3 +39,20 @@ The 1st attempt contains 44 images of my friend.
                     Processign time: 3 hours. 
         Mesh geometry has been populated and export to Rhino. (".obj")
             Processing time: 2 hours
+            
+Pros:
+      Do not requir specific tools. Any camera can do the work.
+      Agisoft is relatively cheap for licensing.
+      Can be apply to a huge range of scale, from urban site model to an object.
+      Can be export to various modeling software, such as Rhino and c4d, for further mesh clean up.
+
+Cons:
+      Agisoft:
+          Processing time varies according to your CPU. (Can goes up to multiple hours.)
+          Location of images may not be success fully identified.
+          Missing an important image may require a complete redo.
+          Resolution of the model relies on the texture image, pure mesh geometry can easily dsitorted. 
+     Model with fine detials requires a sophisticate setup which drives up the cost:
+           1. Perfect lighting.
+           2. Multiple high resolution cameras.
+           3. Locational identifying object maybe necessary.
